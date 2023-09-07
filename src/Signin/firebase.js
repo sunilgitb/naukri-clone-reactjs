@@ -3,12 +3,14 @@ import "firebase/auth"
 
  const app = firebase.initializeApp({
  
-  apiKey: "AIzaSyCHMB8pCzri7dp-sIuWvKgq5nmybkZIkJA",
-  authDomain: "clone-549df.firebaseapp.com",
-  projectId: "clone-549df",
-  storageBucket: "clone-549df.appspot.com",
-  messagingSenderId: "768867902843",
-  appId: "1:768867902843:web:cd4768b5915bc3def189de"
+  apiKey: "AIzaSyApmZB36B7laWKCSSQwg9dTUN3e-pxmP0I",
+  authDomain: "phoneotp-51be2.firebaseapp.com",
+  databaseURL: "https://phoneotp-51be2-default-rtdb.firebaseio.com",
+  projectId: "phoneotp-51be2",
+  storageBucket: "phoneotp-51be2.appspot.com",
+  messagingSenderId: "831921641811",
+  appId: "1:831921641811:web:bc9a7074435ff0a1df69a6",
+  measurementId: "G-2BZ5PNXJR5"
   
 })
 
